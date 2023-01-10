@@ -9,15 +9,14 @@ Fazer ofertas de preço para poder trazer um produto.
 ## Tecnologias
 
 Spring Boot 4
-
 Spring Security
-
-Spring Data JPA
-
-Bootstrap 
-
-Vue.js
+Spring Data
 
 JPA
+
+Thymeleaf
+SpringEL + Bootstrap 
+
+Vue.js
 
 Maria DB
