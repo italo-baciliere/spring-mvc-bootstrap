@@ -8,15 +8,20 @@ Fazer ofertas de preço para poder trazer um produto.
 
 ## Tecnologias
 
-Spring Boot 4
-Spring Security
-Spring Data
+* Spring Boot 4 com o padrão MVC para criar a aplicação
 
-JPA
+* Spring Security para criação do login na aplicação
 
-Thymeleaf
-SpringEL + Bootstrap 
+* Spring Data para persistência
 
-Vue.js
+* JPA
 
-Maria DB
+* BeanValidation para validar os dados
+
+* Thymeleaf para criação de views
+
+* SpringEL + Bootstrap para estilização do layout 
+
+* Vue.js
+
+* Maria DB - para armazenamento dos dados colhidos pela aplicação
